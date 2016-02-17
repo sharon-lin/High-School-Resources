@@ -6,4 +6,6 @@ Sorted by region, various types
 |---------|-------------------------------------------------|-----------| --------
 |         |National Academic Quiz Tournaments | NAQT| |
 |         |International Brain Bee | Dana Foundation | 
-|         |International History Bowl/Bee | | | 
+|         |International History Bowl/Bee 
+|         |National Science Bowl 
+|         |National Ocean Science Bowl
