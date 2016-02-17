@@ -8,30 +8,33 @@ This is true both for college admissions, but more so as general life advice. Fa
 
 **Math**: 
 
-**Science (Olympiads)**:
-
-**Science (Research)**:
-
-**Debate**:
+**Science**
+   - **Olympiads**:
+   - **Research**:
+   
+**Technology**
+   - **Competitive Programming**
+   - **Software Development**
 
 **Social Studies**
-
    - **History**:
-
+   - **Economics**:
    - **Government/Politics**:
+   - **Debate**:
+   - **International Affairs**:
+   - **Philosophy**:
 
-**Journalism**:
+**English*
+   - **Journalism**:
+   - **Creative Writing**:
+   - **Theater**:
 
-**Creative Writing**:
+**Service**
+   - **Independent Non-Profit**:
+   - **National/International**:
 
-**Theater**:
-
-**Service**:
-
-**Technology**:
-
-**Music**:
+**Music**
 
 **Sports**:
 
-**Academic**:
+**Academic**
