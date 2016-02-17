@@ -1,0 +1,5 @@
+#Publications
+
+**Magazines**
+- CTY Imagine
+
