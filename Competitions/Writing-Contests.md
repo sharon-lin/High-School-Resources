@@ -4,3 +4,5 @@
 |---------|-------------------------------------------------|-----------| --------|------
 |         |Scholastic Art & Writing Awards
 |         |YoungArts
+|         |Foyle Young Poets Awards
+|         |Elizabeth Bishop Prize
