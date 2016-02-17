@@ -14,9 +14,11 @@ This is true both for college admissions, but more so as general life advice. Fa
 
 **Debate**:
 
-**History**:
+**Social Studies**
 
-**Government/Politics**:
+    **History**:
+
+    **Government/Politics**:
 
 **Journalism**:
 
