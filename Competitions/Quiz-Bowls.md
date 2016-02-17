@@ -9,3 +9,4 @@ Sorted by region, various types
 |         |International History Bowl/Bee 
 |         |National Science Bowl 
 |         |National Ocean Science Bowl
+|         |National Ethics Bowl
