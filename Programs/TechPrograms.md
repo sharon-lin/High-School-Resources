@@ -11,3 +11,4 @@
 |7/26/16|NYC Tech Latinas HackNite - Website Building| Buzzfeed | Coding | Open |https://www.eventbrite.com/e/nyc-tech-latinas-hacknite-website-building-registration-25937392439|
 |8/5/16 |Science of Music Hackathon|Spotify|Coding/Music|Open|http://www.eventbrite.com/e/science-of-music-hackathon-tickets-22610671126|
 |8/9/16 |Flatiron Tech Tuesday    |Flatiron  |Coding  | Open     |http://www.eventbrite.com/e/flatiron-tech-tuesday-coding-for-everyone-tickets-25705563031|
+|9/10/16|LOFT Coder Summit|TBA|Coding|Open|http://lcsrsvp.com/?em=537|
