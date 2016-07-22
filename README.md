@@ -1,2 +1,4 @@
-# High-School-Resources
-Scholarships, internships, programs, etc.
+# High School Resources
+
+
+
